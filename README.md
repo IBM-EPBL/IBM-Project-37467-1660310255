@@ -9,4 +9,4 @@
 #### Team Member : Iyyappan P
 #### Team Member : Sathya Prabha M 
 ## Demo Link
-#### To watch the project demo link, [Click here](https://drive.google.com/file/d/1JBZGbnVjz8SVW_PHhqdMObhX6ILp2zbW/view?usp=drivesdk).
+#### To watch the project demo, [Click here](https://drive.google.com/file/d/1JBZGbnVjz8SVW_PHhqdMObhX6ILp2zbW/view?usp=drivesdk).
