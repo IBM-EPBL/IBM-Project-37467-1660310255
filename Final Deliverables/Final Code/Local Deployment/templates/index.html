@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Web Phishing Detection</title>
+    <style></style>
+  </head>
+  <body bgcolor=#d2fbd5><br><br><br><br><br><br><br><br><br>
+    <center>
+      <h1><b>Web Phishing Detection Using Machine Learning</b></h1><br>
+
+      <form name="form" action="/y_predict" method="post" class="body">
+        <input
+          type="text"
+          id="url"
+          name="url"
+          placeholder="Enter a URL"
+          size="50"
+        /> <br><br><br>
+        <cenetr><button type="submit"><b>Predict</b></button></cenetr>
+      </form><br><br>
+      <h3 style="text-align: center; color: red; font-size: 20px">{{ans}}</h3>
+      <h3 style="text-align: center; color: rgb(13, 155, 13); font-size: 20px">{{bns}}</h3>
+    </center>
+  </body>
+</html>
