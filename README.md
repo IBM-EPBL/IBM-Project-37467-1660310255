@@ -8,5 +8,5 @@ Team Leader : Balasubramanian R <br /><br />
 Team Member : Abitha C <br /><br />
 Team Member : Iyyappan P <br /><br />
 Team Member : Sathya Prabha M 
-## Projecct Demo Link
+## Project Demo Link
 To watch demo of the project, [Click here](https://drive.google.com/file/d/1JBZGbnVjz8SVW_PHhqdMObhX6ILp2zbW/view?usp=drivesdk).
